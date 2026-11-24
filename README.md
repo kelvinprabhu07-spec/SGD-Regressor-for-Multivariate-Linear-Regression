@@ -98,9 +98,9 @@ plt.show()
 ```
 
 ## Output:
-~~~
-Predicted House Price: 48.70 Lakhs
-Predicted Number of Occupants: 4
-~~~
+
+<img width="388" height="83" alt="image" src="https://github.com/user-attachments/assets/2b1e7dda-f863-4b6f-8f51-4d601bada09b" />
+
+
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
